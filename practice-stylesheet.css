@@ -36,6 +36,10 @@
    height: 130px;
   
 }
+#brand-name a {
+    text-decoration: none;
+    color: white;
+}
  .navbar-nav{
     text-align: center;
     background-color: slateblue;
